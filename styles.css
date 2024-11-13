@@ -17,12 +17,13 @@ body {
 }
 
 .header {
-    background-color: #610d0d;
+    background-color: #202469;
     color: white;
-    padding: 1rem 0;
+    padding: 0.3rem;
     position: sticky;
     top: 0;
     z-index: 100;
+    height: 3rem;
 }
 
 .header .container {
@@ -85,3 +86,14 @@ body {
     color: #555;
 }
 
+.aventura-item img {
+    width: 48%;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.aventura-item h3 {
+    font-size: 1.25rem;
+    margin: 0.5rem;
+    color: #333;
+}
