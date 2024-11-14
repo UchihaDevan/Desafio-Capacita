@@ -38,5 +38,3 @@ Contribuições são bem-vindas! Se você quiser melhorar o design ou adicionar 
 Este projeto está licenciado sob a [GPL](https://www.gnu.org/licenses/gpl-3.0.pt-br.html).
 
 ---
-
-Esse README oferece uma visão geral clara e indicações úteis para futuros colaboradores. Se precisar de algum ajuste, é só avisar!
