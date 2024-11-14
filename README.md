@@ -1,7 +1,3 @@
-Aqui está um modelo de README para o projeto **Hobbits Aventureiros**:
-
----
-
 # Hobbits Aventureiros
 
 Um site simples desenvolvido com HTML5 e CSS, focado em mostrar as aventuras dos Hobbits de *O Senhor dos Anéis*.
